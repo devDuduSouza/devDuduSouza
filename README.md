@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
  <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/devDuduSouza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devDuduSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDuduSouza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=devDuduSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDuduSouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
